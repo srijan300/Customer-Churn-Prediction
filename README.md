@@ -554,9 +554,9 @@ Potential next improvements:
 
 ## Author
 
-**Amir Honardoust**
+**Srijan Paul**
 
-GitHub: [@AmirhosseinHonardoust](https://github.com/AmirhosseinHonardoust)
+GitHub: [@srijan300](https://github.com/srijan300)
 
 ---
 
