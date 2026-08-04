@@ -559,9 +559,3 @@ Potential next improvements:
 GitHub: [@srijan300](https://github.com/srijan300)
 
 ---
-
-## License
-
-This project is released under the terms of the [MIT License](LICENSE).
-
-If you use or modify this project, please keep the responsible-use notes and limitations clear.
